@@ -1,0 +1,26 @@
+<?php
+define('lang_Account','Аккаунт');
+define('lang_Welcome','Добро пожаловать');
+define('lang_Exit','Выход');
+define('lang_login','Вход');
+define('lang_login_kilir','Логин');
+define('lang_Signup','Регистрация');
+define('lang_Home','Главная');
+define('lang_Articles','Материалы');
+define('lang_Portfolio','Портфолио');
+define('lang_Blog','Блог');
+define('lang_Contact','Контакты');
+define('lang_Password_incorrect','Пароль введён неверно!');
+define('lang_User_not_found','Пользователь с таким логином не найден!');
+define('lang_Password','Пароль');
+define('lang_Enter_login','Введите логин!');
+define('lang_Enter_email','Введите Email!');
+define('lang_Password_must_be','Пароль должен включать не менее 6 символов!');
+define('lang_Enter_name','Введите имя!');
+define('lang_User_with__login','Пользователь с таким логином уже существует.');
+define('lang_User_with__email','Пользователь с таким email уже существует.');
+define('lang_Error_loading','Ошибка при загрузке изображения.');
+define('lang_Email','Email');
+define('lang_Avatar','Загрузить аватар');
+define('lang_Name','Имя');
+define('lang_Profile','Профиль');
